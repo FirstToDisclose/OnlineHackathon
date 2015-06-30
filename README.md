@@ -6,4 +6,5 @@ events centered on innovation.
 # Contributors 
 
 - Jason Walsh (jwalsh)
+- Minghua Sun 
  
