@@ -8,7 +8,6 @@ events centered on innovation.
 - Jason Walsh (jwalsh)
 
 - Noah Teshu (noah-t) 
-- Minghua Sun 
 - Minghua Sun (clairesunstudio)
 
  
